@@ -1,0 +1,16 @@
+stages:
+  data_ingestion:
+    cmd: python src/data_ingestion.py
+    deps:
+      - src/data_ingestion.py
+    outs:
+      - artifacts/raw # No trailing slash needed; DVC tracks directories without a trailing slash
+
+  model_training:
+    cmd: python src/model_training.py
+    deps:
+      - src/model_training.py
+      - src/model_architecture.py
+      - artifacts/raw/
+    outs:
+      - artifacts/models/fasterrcnn.pth

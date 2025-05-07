@@ -1,0 +1,152 @@
+2025-05-06 22:06:09,056 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:06:09,939 - INFO - Downloaded the data to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:06:09,947 - INFO - Contents of extracted directory: ['LICENSE', 'README.md', 'repository']
+2025-05-06 22:06:09,949 - WARNING - Images folder doesn't exist.
+2025-05-06 22:06:09,949 - WARNING - Labels folder doesn't exist.
+2025-05-06 22:07:44,734 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:07:45,631 - INFO - Downloaded the data to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:07:45,632 - INFO - Images folder doesn't exist.
+2025-05-06 22:07:45,639 - INFO - Labels folder doesn't exist.
+2025-05-06 22:08:22,428 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:08:23,301 - INFO - Downloaded the data to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:08:23,303 - INFO - Images folder doesn't exist.
+2025-05-06 22:08:23,303 - INFO - Labels folder doesn't exist.
+2025-05-06 22:08:41,412 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:08:42,346 - INFO - Downloaded the data to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:08:42,348 - INFO - Images folder doesn't exist.
+2025-05-06 22:08:42,348 - INFO - Labels folder doesn't exist.
+2025-05-06 22:08:57,985 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:08:58,936 - INFO - Downloaded the data to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:08:58,937 - INFO - Images folder doesn't exist.
+2025-05-06 22:08:58,937 - INFO - Labels folder doesn't exist.
+2025-05-06 22:10:19,233 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:10:20,141 - INFO - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:10:20,141 - INFO - Searching for 'Images' and 'Labels' directories in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:10:20,143 - INFO - Images folder doesn't exist.
+2025-05-06 22:10:20,143 - INFO - Labels folder doesn't exist.
+2025-05-06 22:11:41,516 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:11:42,473 - INFO - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:11:42,473 - INFO - Searching for 'Images' and 'Labels' directories in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:11:42,475 - INFO - Images folder doesn't exist.
+2025-05-06 22:11:42,475 - INFO - Labels folder doesn't exist.
+2025-05-06 22:14:05,041 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:14:05,843 - INFO - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:14:05,844 - INFO - Contents of the dataset directory C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1: ['LICENSE', 'README.md', 'repository']
+2025-05-06 22:14:05,845 - INFO - Checking directory: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:14:05,846 - INFO - Checking directory: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\repository
+2025-05-06 22:14:05,846 - INFO - Checking directory: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\repository\SasankYadati-Guns-Dataset-0eb7329
+2025-05-06 22:14:05,847 - INFO - Images folder doesn't exist.
+2025-05-06 22:14:05,847 - INFO - Labels folder doesn't exist.
+2025-05-06 22:17:18,744 - INFO - Using device: cpu
+2025-05-06 22:17:18,744 - ERROR - Dataset initialization failed.
+2025-05-06 22:17:18,745 - ERROR - Training pipeline failed: Error in E:\mlops-object_detection-project-4\src\data_processing.py , line 25 : Error initializing GunDataset
+2025-05-06 22:17:49,866 - INFO - Using device: cpu
+2025-05-06 22:17:49,867 - ERROR - Dataset initialization failed.
+2025-05-06 22:17:49,867 - ERROR - Training pipeline failed: Error in E:\mlops-object_detection-project-4\src\data_processing.py , line 25 : Error initializing GunDataset
+2025-05-06 22:22:09,193 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:22:10,029 - INFO - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:22:10,030 - INFO - Contents of the dataset directory C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1: ['LICENSE', 'README.md', 'repository']
+2025-05-06 22:22:10,031 - INFO - Checking directory: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:22:10,032 - INFO - Checking directory: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\repository
+2025-05-06 22:22:10,033 - INFO - Checking directory: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\repository\SasankYadati-Guns-Dataset-0eb7329
+2025-05-06 22:22:10,034 - INFO - Images folder doesn't exist.
+2025-05-06 22:22:10,034 - INFO - Labels folder doesn't exist.
+2025-05-06 22:23:11,457 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:23:12,355 - INFO - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:23:12,356 - INFO - Contents of the dataset directory C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1: ['LICENSE', 'README.md', 'repository']
+2025-05-06 22:23:12,358 - INFO - Images and labels moved successfully.
+2025-05-06 22:24:29,435 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:24:30,183 - INFO - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:24:30,184 - INFO - Contents of the dataset directory C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1: ['LICENSE', 'README.md', 'repository']
+2025-05-06 22:24:30,185 - INFO - Images and labels moved successfully.
+2025-05-06 22:24:51,653 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:24:52,506 - INFO - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:24:52,507 - INFO - Contents of the dataset directory C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1: ['LICENSE', 'README.md', 'repository']
+2025-05-06 22:24:52,508 - INFO - Images and labels moved successfully.
+2025-05-06 22:27:28,957 - INFO - Using device: cpu
+2025-05-06 22:27:28,958 - ERROR - Dataset initialization failed.
+2025-05-06 22:27:28,958 - ERROR - Training pipeline failed: Error in E:\mlops-object_detection-project-4\src\data_processing.py , line 27 : Error initializing GunDataset
+2025-05-06 22:30:45,189 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:30:46,000 - INFO - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:30:46,001 - INFO - Contents of the dataset directory C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1: ['LICENSE', 'README.md', 'repository']
+2025-05-06 22:30:46,001 - INFO - Dataset folder resolved to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\repository\SasankYadati-Guns-Dataset-0eb7329
+2025-05-06 22:30:46,010 - INFO - Total images: 0, Total labels: 0
+2025-05-06 22:30:46,011 - INFO - Images and labels moved successfully.
+2025-05-06 22:31:15,144 - INFO - Using device: cpu
+2025-05-06 22:31:15,144 - ERROR - Dataset initialization failed.
+2025-05-06 22:31:15,145 - ERROR - Training pipeline failed: Error in E:\mlops-object_detection-project-4\src\data_processing.py , line 27 : Error initializing GunDataset
+2025-05-06 22:36:43,483 - INFO - Download the data from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:36:43,484 - INFO - Imagees folder dont exist..
+2025-05-06 22:36:43,484 - INFO - Labels folder dont exist..
+2025-05-06 22:37:52,647 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:37:53,532 - INFO - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:37:53,533 - INFO - Contents of the dataset directory C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1: ['LICENSE', 'README.md', 'repository']
+2025-05-06 22:37:53,534 - INFO - Dataset folder resolved to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\repository\SasankYadati-Guns-Dataset-0eb7329
+2025-05-06 22:37:53,535 - INFO - Total images: 0, Total labels: 0
+2025-05-06 22:37:53,536 - INFO - Images and labels moved successfully.
+2025-05-06 22:41:11,112 - INFO - __main__ - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:41:12,089 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:41:12,090 - INFO - __main__ - Contents of the dataset directory C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1: ['LICENSE', 'README.md', 'repository']
+2025-05-06 22:41:12,091 - INFO - __main__ - Dataset folder resolved to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\repository\SasankYadati-Guns-Dataset-0eb7329
+2025-05-06 22:41:12,094 - INFO - __main__ - Total images: 0, Total labels: 0
+2025-05-06 22:41:12,095 - INFO - __main__ - Images and labels moved successfully.
+2025-05-06 22:47:11,513 - INFO - __main__ - Starting data ingestion pipeline.
+2025-05-06 22:47:11,515 - INFO - __main__ - Ensured artifacts base directory exists: artifacts
+2025-05-06 22:47:11,516 - INFO - __main__ - Ensured raw data directory exists: artifacts\raw
+2025-05-06 22:47:11,517 - INFO - __main__ - Ensured models directory exists: artifacts\models
+2025-05-06 22:47:11,518 - INFO - __main__ - Attempting to download dataset: awsaf49/coco-2017-dataset
+2025-05-06 22:53:22,351 - INFO - src.model_architecture - FasterRCNN model initialized.
+2025-05-06 22:53:22,356 - INFO - __main__ - Model Moved to device
+2025-05-06 22:53:22,359 - INFO - __main__ - Optimizer has been initialized..
+2025-05-06 22:53:22,359 - ERROR - src.data_processing - Dataset initialization failed.
+2025-05-06 22:53:22,360 - ERROR - __main__ - Failed to do splitting data Error in E:\mlops-object_detection-project-4\src\data_processing.py , line 27 : Error initializing GunDataset
+2025-05-06 22:53:22,361 - ERROR - __main__ - Failed to do train model Error in E:\mlops-object_detection-project-4\src\model_training.py , line 49 : Failed to do splitting data 
+2025-05-06 22:57:00,642 - INFO - __main__ - Created the directory: artifacts\raw
+2025-05-06 22:57:00,643 - INFO - __main__ - Downloading dataset: issaisasank/guns-object-detection
+2025-05-06 22:57:01,476 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:57:01,477 - INFO - __main__ - Contents of the dataset directory C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1: ['LICENSE', 'README.md', 'repository']
+2025-05-06 22:57:01,478 - INFO - __main__ - Dataset folder resolved to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\repository\SasankYadati-Guns-Dataset-0eb7329
+2025-05-06 22:57:01,481 - INFO - __main__ - Total images: 0, Total labels: 0
+2025-05-06 22:57:01,482 - INFO - __main__ - Images and labels moved successfully.
+2025-05-06 22:58:17,488 - INFO - __main__ - Ensured the existence of directory artifacts\raw
+2025-05-06 22:58:18,372 - INFO - __main__ - Downloaded data from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:58:18,373 - WARNING - __main__ - Images folder doesn't exist.
+2025-05-06 22:58:18,373 - WARNING - __main__ - Labels folder doesn't exist.
+2025-05-06 22:59:06,699 - INFO - __main__ - Download the data from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 22:59:06,700 - INFO - __main__ - Imagees folder dont exist..
+2025-05-06 22:59:06,700 - INFO - __main__ - Labels folder dont exist..
+2025-05-06 23:08:23,685 - INFO - __main__ - Ensured artifacts\raw exists.
+2025-05-06 23:08:36,935 - INFO - __main__ - Downloaded the dataset from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 23:08:36,935 - INFO - __main__ - Images folder doesn't exist.
+2025-05-06 23:08:36,936 - INFO - __main__ - Labels folder doesn't exist.
+2025-05-06 23:14:02,264 - INFO - __main__ - Ensured artifacts\raw exists.
+2025-05-06 23:14:03,130 - INFO - __main__ - Downloaded the dataset from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 23:17:16,832 - INFO - __main__ - Ensured artifacts\raw exists.
+2025-05-06 23:17:17,593 - INFO - __main__ - Downloaded the dataset from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 23:17:17,593 - ERROR - __main__ - Error while extracting files.
+2025-05-06 23:17:17,594 - ERROR - __main__ - Error while downloading dataset.
+2025-05-06 23:17:17,594 - ERROR - __main__ - Error in data ingestion pipeline.
+2025-05-06 23:18:01,668 - INFO - __main__ - Ensured artifacts\raw exists.
+2025-05-06 23:18:02,651 - INFO - __main__ - Downloaded the dataset from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 23:19:15,464 - INFO - __main__ - Ensured artifacts\raw exists.
+2025-05-06 23:19:16,280 - INFO - __main__ - Downloaded the dataset from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 23:25:46,971 - INFO - __main__ - Ensured artifacts\raw exists.
+2025-05-06 23:25:47,864 - INFO - __main__ - Downloaded the dataset from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 23:25:47,866 - INFO - __main__ - Images folder doesn't exist.
+2025-05-06 23:25:47,867 - INFO - __main__ - Labels folder doesn't exist.
+2025-05-06 23:33:51,534 - INFO - __main__ - Ensured artifacts\raw exists.
+2025-05-06 23:33:52,331 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 23:33:52,333 - ERROR - __main__ - Error locating repository folder.
+2025-05-06 23:33:52,334 - ERROR - __main__ - Error during dataset download or processing.
+2025-05-06 23:33:52,334 - ERROR - __main__ - Error in data ingestion pipeline.
+2025-05-06 23:36:40,580 - INFO - __main__ - Raw directory created at: artifacts\raw
+2025-05-06 23:36:41,498 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-06 23:36:42,795 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images to artifacts\raw\Images
+2025-05-06 23:36:43,955 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels to artifacts\raw\Labels
+2025-05-07 00:02:47,010 - INFO - src.model_architecture - FasterRCNN model initialized.
+2025-05-07 00:02:47,014 - INFO - __main__ - Model Moved to device
+2025-05-07 00:02:47,016 - INFO - __main__ - Optimizer has been initialized..
+2025-05-07 00:02:47,017 - INFO - src.data_processing - GunDataset initialized with 333 samples.
+2025-05-07 00:02:47,023 - INFO - __main__ - Data split successfully.
+2025-05-07 00:02:47,023 - INFO - __main__ - Starting epoch 0
+2025-05-07 00:03:04,659 - ERROR - __main__ - Failed to train model 'float' object has no attribute 'backward'

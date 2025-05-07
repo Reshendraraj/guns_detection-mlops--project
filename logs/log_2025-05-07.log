@@ -1,0 +1,124 @@
+2025-05-07 00:05:27,842 - INFO - src.model_architecture - FasterRCNN model initialized.
+2025-05-07 00:05:27,845 - INFO - __main__ - Model Moved to device
+2025-05-07 00:05:27,846 - INFO - __main__ - Optimizer has been initialized..
+2025-05-07 00:05:27,847 - INFO - src.data_processing - GunDataset initialized with 333 samples.
+2025-05-07 00:05:27,849 - INFO - __main__ - Data split successfully.
+2025-05-07 00:05:27,850 - INFO - __main__ - Starting epoch 0
+2025-05-07 14:27:08,362 - INFO - src.model_architecture - FasterRCNN model initialized.
+2025-05-07 14:27:08,720 - INFO - __main__ - Pretrained model loaded and moved to device.
+2025-05-07 14:27:09,227 - INFO - __main__ - Model saved successfully to artifacts/models/fasterrcnn.pth
+2025-05-07 14:32:48,637 - INFO - __main__ - Raw directory created at: artifacts\raw
+2025-05-07 14:32:49,981 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:32:49,983 - WARNING - __main__ - Source folder not found: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 14:32:49,983 - WARNING - __main__ - Source folder not found: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 14:36:22,911 - INFO - __main__ - Raw directory created at: artifacts\raw
+2025-05-07 14:36:23,686 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:36:23,687 - WARNING - __main__ - Source folder not found: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 14:36:23,687 - WARNING - __main__ - Source folder not found: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 14:43:45,103 - INFO - src.model_architecture - FasterRCNN model initialized.
+2025-05-07 14:43:45,466 - INFO - __main__ - Pretrained model loaded and moved to device.
+2025-05-07 14:43:45,854 - INFO - __main__ - Model saved successfully to artifacts/models/fasterrcnn.pth
+2025-05-07 14:44:05,708 - INFO - __main__ - Raw directory created at: artifacts\raw
+2025-05-07 14:44:06,968 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:44:06,969 - WARNING - __main__ - Source folder not found: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 14:44:06,970 - WARNING - __main__ - Source folder not found: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 14:49:48,447 - INFO - __main__ - Raw directory created at: artifacts\raw
+2025-05-07 14:49:49,492 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:49:49,494 - WARNING - __main__ - No zip file found in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:55:49,868 - INFO - __main__ - Raw directory created at: artifacts\raw
+2025-05-07 14:56:03,502 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:56:03,503 - WARNING - __main__ - No zip file found in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:56:03,504 - WARNING - __main__ - No zip file found in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:56:03,504 - WARNING - __main__ - No zip file found in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:56:03,505 - WARNING - __main__ - No zip file found in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:56:03,505 - WARNING - __main__ - No zip file found in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:59:15,590 - INFO - __main__ - Raw directory created at: artifacts\raw
+2025-05-07 14:59:16,496 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:59:16,496 - INFO - __main__ - Dataset is in folder format. Moving files...
+2025-05-07 14:59:16,497 - ERROR - __main__ - Error while downloading dataset.
+2025-05-07 14:59:16,497 - ERROR - __main__ - Data ingestion pipeline failed.
+2025-05-07 14:59:40,274 - INFO - __main__ - Raw directory created at: artifacts\raw
+2025-05-07 14:59:41,176 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 14:59:41,177 - INFO - __main__ - Dataset is in folder format. Moving files...
+2025-05-07 14:59:41,177 - ERROR - __main__ - Error while downloading dataset.
+2025-05-07 14:59:41,178 - ERROR - __main__ - Data ingestion pipeline failed.
+2025-05-07 15:04:18,448 - INFO - __main__ - Raw directory created at: artifacts\artifacts\raw
+2025-05-07 15:04:31,331 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 15:04:32,141 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images to artifacts\artifacts\raw\Images
+2025-05-07 15:04:33,008 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels to artifacts\artifacts\raw\Labels
+2025-05-07 15:06:22,400 - INFO - __main__ - Raw directory created at: artifacts\artifacts\raw
+2025-05-07 15:06:35,431 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 15:06:35,432 - INFO - __main__ - Files extracted: ['Images', 'Labels', 'LICENSE', 'README.md', 'repository']
+2025-05-07 15:06:35,433 - INFO - __main__ - Checking for 'Images' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 15:06:35,433 - INFO - __main__ - Checking for 'Labels' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 15:06:36,548 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images to artifacts\artifacts\raw\Images
+2025-05-07 15:06:37,657 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels to artifacts\artifacts\raw\Labels
+2025-05-07 15:18:55,837 - INFO - __main__ - Raw directory created at: artifacts\artifacts\raw
+2025-05-07 15:19:07,887 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 15:19:07,888 - INFO - __main__ - Files extracted: ['Images', 'Labels', 'LICENSE', 'README.md', 'repository']
+2025-05-07 15:19:07,888 - INFO - __main__ - Checking for 'Images' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 15:19:07,889 - INFO - __main__ - Checking for 'Labels' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 15:19:08,818 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images to artifacts\artifacts\raw\Images
+2025-05-07 15:19:09,708 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels to artifacts\artifacts\raw\Labels
+2025-05-07 15:20:59,806 - INFO - __main__ - Raw directory created at: artifacts\artifacts\raw
+2025-05-07 15:21:14,273 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 15:21:14,274 - INFO - __main__ - Files extracted: ['Images', 'Labels', 'LICENSE', 'README.md', 'repository']
+2025-05-07 15:21:14,274 - INFO - __main__ - Checking for 'Images' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 15:21:14,274 - INFO - __main__ - Checking for 'Labels' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 15:21:15,111 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images to artifacts\artifacts\raw\Images
+2025-05-07 15:21:16,050 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels to artifacts\artifacts\raw\Labels
+2025-05-07 15:24:24,281 - INFO - __main__ - Raw directory created at: artifacts\artifacts\raw
+2025-05-07 15:24:37,236 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 15:24:37,237 - INFO - __main__ - Files extracted: ['Images', 'Labels', 'LICENSE', 'README.md', 'repository']
+2025-05-07 15:24:37,238 - INFO - __main__ - Checking for 'Images' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 15:24:37,238 - INFO - __main__ - Checking for 'Labels' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 15:24:38,236 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images to artifacts\artifacts\raw\Images
+2025-05-07 15:24:39,479 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels to artifacts\artifacts\raw\Labels
+2025-05-07 15:26:36,961 - INFO - __main__ - Raw directory created at: artifacts\artifacts\raw
+2025-05-07 15:26:52,025 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 15:26:52,026 - INFO - __main__ - Files extracted: ['Images', 'Labels', 'LICENSE', 'README.md', 'repository']
+2025-05-07 15:26:52,026 - INFO - __main__ - Checking for 'Images' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 15:26:52,026 - INFO - __main__ - Checking for 'Labels' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 15:26:53,095 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images to artifacts\artifacts\raw\Images
+2025-05-07 15:26:54,167 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels to artifacts\artifacts\raw\Labels
+2025-05-07 15:29:09,559 - INFO - __main__ - Raw directory created at: artifacts\artifacts\raw
+2025-05-07 15:29:24,789 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 15:29:24,790 - INFO - __main__ - Files extracted: ['Images', 'Labels', 'LICENSE', 'README.md', 'repository']
+2025-05-07 15:29:24,791 - INFO - __main__ - Checking for 'Images' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 15:29:24,791 - INFO - __main__ - Checking for 'Labels' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 15:29:25,718 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images to artifacts\artifacts\raw\Images
+2025-05-07 15:29:26,758 - INFO - __main__ - Moved folder from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels to artifacts\artifacts\raw\Labels
+2025-05-07 15:30:28,565 - INFO - __main__ - Raw directory created at: artifacts\artifacts\raw
+2025-05-07 15:30:29,552 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 15:30:29,553 - INFO - __main__ - Files extracted: ['LICENSE', 'README.md', 'repository']
+2025-05-07 15:30:29,554 - INFO - __main__ - Checking for 'Images' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 15:30:29,554 - INFO - __main__ - Checking for 'Labels' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 15:30:29,555 - WARNING - __main__ - Source folder not found: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 15:30:29,555 - WARNING - __main__ - Source folder not found: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 15:31:29,262 - INFO - __main__ - Raw directory created at: artifacts\artifacts\raw
+2025-05-07 15:31:30,072 - INFO - __main__ - Dataset downloaded to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 15:31:30,073 - INFO - __main__ - Files extracted: ['LICENSE', 'README.md', 'repository']
+2025-05-07 15:31:30,074 - INFO - __main__ - Checking for 'Images' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 15:31:30,074 - INFO - __main__ - Checking for 'Labels' in C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 15:31:30,074 - WARNING - __main__ - Source folder not found: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images
+2025-05-07 15:31:30,075 - WARNING - __main__ - Source folder not found: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels
+2025-05-07 15:39:59,824 - INFO - __main__ - Created the artifacts\raw
+2025-05-07 15:40:00,784 - INFO - __main__ - Download the data from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 15:40:00,785 - INFO - __main__ - Imagees folder dont exist..
+2025-05-07 15:40:00,785 - INFO - __main__ - Labels folder dont exist..
+2025-05-07 16:54:31,202 - INFO - __main__ - Successfully imported DATASET_NAME and TARGET_DIR from config.
+2025-05-07 16:54:31,202 - INFO - __main__ - Starting data ingestion pipeline.
+2025-05-07 16:54:31,203 - INFO - __main__ - Attempting to create raw directory: artifacts\raw
+2025-05-07 16:54:31,204 - INFO - __main__ - Created raw directory: artifacts\raw
+2025-05-07 16:54:31,204 - INFO - __main__ - Data does not appear to be ingested in artifacts\raw.
+2025-05-07 16:54:31,204 - INFO - __main__ - Attempting to download dataset: issaisasank/guns-object-detection from Kaggle Hub
+2025-05-07 16:54:45,262 - INFO - __main__ - Dataset downloaded and extracted by kagglehub to: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 16:54:45,262 - INFO - __main__ - Organizing data from downloaded path: C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-05-07 16:54:45,263 - INFO - __main__ - Moving Images from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Images to artifacts\raw\Images
+2025-05-07 16:54:46,169 - INFO - __main__ - Images folder moved successfully.
+2025-05-07 16:54:46,170 - INFO - __main__ - Moving Labels from C:\Users\konde\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1\Labels to artifacts\raw\Labels
+2025-05-07 16:54:47,089 - INFO - __main__ - Labels folder moved successfully.
+2025-05-07 16:54:47,090 - INFO - __main__ - Data ingestion completed.
+2025-05-07 17:14:36,168 - INFO - src.model_architecture - FasterRCNN model initialized.
+2025-05-07 17:14:36,510 - INFO - __main__ - Pretrained model loaded and moved to device.
+2025-05-07 17:14:36,881 - INFO - __main__ - Model saved successfully to artifacts/models/fasterrcnn.pth
