@@ -1,32 +1,9 @@
-# Virtual environment
 venv/
-# DVC internal directory
 .dvc/
-
-# DVC-managed artifacts (ignore the whole folder - cleaner than listing subdirs)
-artifacts/
-
-# Python cache and build artifacts
-__pycache__/
-*.pyc
-*.egg-info/ # Catches directories like MLOPS_PROJECT_1.egg-info/
-build/
-dist/
-
-# Logs
 logs/
-*.log
-
-# TensorBoard logs
+MLOPS_PROJECT_1.egg-info/
 tensorboard_logs/
-
-# Operating System files
-.DS_Store
-Thumbs.db
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
-# Specific IDE/Editor files (optional - uncomment if needed)
-# .vscode/
-# .idea/
+artifacts/
+__pycache__/
+dist/
+pip-wheel-metadata/
