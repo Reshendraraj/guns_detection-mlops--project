@@ -7,3 +7,6 @@ opencv-python-headless
 torchvision
 tensorboard
 dvc
+fastapi[all]
+pillow
+uvicorn

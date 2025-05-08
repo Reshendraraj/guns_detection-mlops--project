@@ -1,2 +1,5 @@
 [core]
     no_scm = True
+    remote = myremote
+['remote "myremote"']
+    url = gs://raj-dvcbucket97/

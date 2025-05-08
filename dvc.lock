@@ -18,9 +18,9 @@ stages:
     deps:
     - path: artifacts/raw/
       hash: md5
-      md5: d751713988987e9331980363e24189ce.dir
-      size: 0
-      nfiles: 0
+      md5: adfb9f01a07ced01f71d76b2cc3d7908.dir
+      size: 2442191
+      nfiles: 666
     - path: src/model_architecture.py
       hash: md5
       md5: e676292abfb28a51971bb5e1bcd6471c

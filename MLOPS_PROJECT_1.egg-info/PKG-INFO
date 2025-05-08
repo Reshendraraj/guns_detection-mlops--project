@@ -8,5 +8,11 @@ Requires-Dist: setuptools
 Requires-Dist: kagglehub
 Requires-Dist: torch
 Requires-Dist: opencv-python-headless
+Requires-Dist: torchvision
+Requires-Dist: tensorboard
+Requires-Dist: dvc
+Requires-Dist: fastapi[all]
+Requires-Dist: pillow
+Requires-Dist: uvicorn
 Dynamic: author
 Dynamic: requires-dist
